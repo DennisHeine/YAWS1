@@ -5,3 +5,6 @@ Press (A) or "Grip" to reload.
 Set graphic settings to "high" for enabling voluminetric lightning.
 
 Support: https://clickz0r.freeforums.net/
+
+
+<img src="https://i.ibb.co/7R3YYYv/ss-73362484cee68626faf19e238ef62ff9fa37c1dc-600x338.jpg"></img>
